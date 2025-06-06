@@ -47,6 +47,11 @@
 * [Pi](https://pi.ai/) - Inflection AI's Chatbot
 * [Reka](https://www.reka.ai/) - Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / Phone # Required / [Discord](https://discord.com/invite/joinpoe)
+* [ChatGPT Nederlands](https://chatgptnederlands.gratis/) - ChatGPT Dutch Free without registration
+* [ChatGPT Français](https://gptopenai.fr/) -  ChatGPT French Free without login
+* [ChatGPT日本語](https://gptopenai.jp/) - ChatGPT Japanese Free without registration
+* [ChatGPT Deutsch](https://gptde.de/) - ChatGPT German Free without login
+* [ChatGPT Italiano](chatgptitaliano.it) - ChatGPT Italian Free without registration
 * [PrivateGPT](https://privategpt.dev/) / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt), [NotebookLM](https://notebooklm.google/), [Onyx](https://www.onyx.app/) / [Discord](https://discord.com/invite/jDnRGhWhg4) / [GitHub](https://github.com/onyx-dot-app/onyx) or [DocsGPT](https://www.docsgpt.cloud/) / [Discord](https://discord.com/invite/n5BX8dh8rU) / [GitHub](https://github.com/arc53/DocsGPT) - Document Chatbots / Note-Taking
 
 ***
